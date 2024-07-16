@@ -15,12 +15,12 @@ const Sidebar = ({ user }: SiderbarProps) => {
         <Link href="/" className="mb-12 cursor-pointer items-center gap-2 flex">
           <Image
             src={"/icons/logo.svg"}
-            alt={"Vertex logo"}
+            alt={"Horizon logo"}
             width={34}
             height={34}
             className="size-[30px] max-xl:size-14"
           />
-          <h1 className="sidebar-logo">Vertex</h1>
+          <h1 className="sidebar-logo">Horizon</h1>
         </Link>
         {sidebarLinks.map((item) => {
           const isActive =

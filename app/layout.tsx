@@ -11,7 +11,7 @@ const imbPlexSerif = IBM_Plex_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Vertex",
+  title: "Horizon",
   description: "Modern banking platform for everyone",
 };
 

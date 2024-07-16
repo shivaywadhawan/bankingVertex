@@ -36,12 +36,12 @@ const MobileNav = ({ user }: MobileNavProps) => {
           >
             <Image
               src={"/icons/logo.svg"}
-              alt={"Vertex logo"}
+              alt={"Horizon logo"}
               width={34}
               height={34}
             />
             <h1 className="text-26 font-ibm-flex-serif font-bold text-black-1">
-              Vertex
+              Horizon
             </h1>
           </Link>
           <div className="mobilenav-sheet">
